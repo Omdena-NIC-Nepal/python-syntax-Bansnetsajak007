@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+assignment_env/
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# System files
+.DS_Store
